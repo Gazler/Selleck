@@ -6,7 +6,7 @@ Selleck is a template loader for php allowing you to output your templates in ja
 
 Installation
 ------------
-Simply include [selleck.php][grabbio_src] into your application and you are
+Simply include [selleck.php][selleck] into your application and you are
 then ready to go.  You may need to change the templates directory in selleck.
 
 [selleck]: https://github.com/Gazler/Selleck/selleck.php
