@@ -9,7 +9,7 @@ Installation
 Simply include [selleck.php][selleck] into your application and you are
 then ready to go.  You may need to change the templates directory in selleck.
 
-[selleck]: https://github.com/Gazler/Selleck/selleck.php
+[selleck]: https://github.com/Gazler/Selleck/blob/master/selleck.php
 Usage
 -----
 
